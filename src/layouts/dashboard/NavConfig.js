@@ -17,27 +17,27 @@ const navConfig = [
     icon: getIcon('eva:people-fill'),
   },
   {
-    title: 'product',
+    title: 'payments',
     path: '/dashboard/products',
     icon: getIcon('eva:shopping-bag-fill'),
   },
   {
-    title: 'blog',
+    title: 'house',
     path: '/dashboard/blog',
     icon: getIcon('eva:file-text-fill'),
   },
   {
-    title: 'login',
+    title: 'issues',
     path: '/login',
     icon: getIcon('eva:lock-fill'),
   },
   {
-    title: 'register',
+    title: 'delete user',
     path: '/register',
     icon: getIcon('eva:person-add-fill'),
   },
   {
-    title: 'Not found',
+    title: 'payment report',
     path: '/404',
     icon: getIcon('eva:alert-triangle-fill'),
   },
